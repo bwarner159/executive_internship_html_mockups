@@ -1,8 +1,23 @@
 
-
-#information_body{
-
-  margin-top: 3%;
-
+h3{
+  color: white;
+  background-color: teal;
 
 }
+
+
+body{
+  background-image: url('../images/background4.jpg');
+  color: white;
+
+}
+
+
+
+
+#information_body{
+  margin-top: 3%;
+
+}
+
+
